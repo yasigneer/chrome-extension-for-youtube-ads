@@ -8,7 +8,7 @@ SpeAdy Gonzales is a basic browser extension designed to enhance your YouTube vi
 
 ### Download as Zip
 
-1. Click [here](#https://github.com/yasigneer/chrome-extension-for-youtube-ads/archive/refs/heads/master.zip) to download the extension as a zip file.
+1. Click [here](https://github.com/yasigneer/chrome-extension-for-youtube-ads/archive/refs/heads/master.zip) to download the extension as a zip file.
 2. Extract the contents of the zip file to a location of your choice.
 
 ### Manual Installation
@@ -17,7 +17,7 @@ Follow these steps to manually install the extension:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yasigneer/chrome-extension-for-youtube-ads.git]
+   git clone https://github.com/yasigneer/chrome-extension-for-youtube-ads.git
 
 ### Install the Extension to Browser:
 
