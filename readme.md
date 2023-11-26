@@ -2,11 +2,7 @@
 
 ## Overview
 
-SpeAdy Gonzales is a basic browser extension designed to enhance your YouTube viewing experience by reducing the time it takes to skip ads. With this extension, you can skip YouTube ads almost 0.5 seconds faster, saving you time and providing a smoother video-watching experience.
-
-## Features
-
-- **Faster Ad Skipping:** Reduces the time it takes to skip YouTube ads, allowing you to get back to your content more quickly.
+SpeAdy Gonzales is a basic browser extension designed to enhance your YouTube viewing experience by reducing the time it takes to skip ads. With this extension, you can skip YouTube ads almost in 0.5 seconds.
 
 ## Installation
 
