@@ -1,4 +1,4 @@
-document.querySelector('video').addEventListener('playing', playHandler, false);
+document.querySelector('video')?.addEventListener('playing', playHandler, false);
 function playHandler(e) {
     speedUpAndMuteAdVideo();
     skipAd();
