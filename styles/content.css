@@ -1,0 +1,9 @@
+ytd-video-masthead-ad-v3-renderer,
+ytd-rich-item-renderer:has(ytd-ad-slot-renderer),
+ytd-ad-slot-renderer,
+#masthead-ad,
+#player-ads,
+#background-content
+{
+    display: none;
+}

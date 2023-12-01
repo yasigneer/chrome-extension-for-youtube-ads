@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "SpeAdy Gonzales",
-    "version": "1.0.0",
-    "description": "Speed up play rate of ad videos and skip as soon as possible on youtube",
+    "version": "1.0.1",
+    "description": "Speed up play rate of ad videos and skip as soon as possible",
 
     "icons": {
         "16": "images/icon-16.png",
@@ -14,7 +14,8 @@
     "content_scripts": [
         {
           "matches": ["https://www.youtube.com/*"],
-          "js": ["scripts/content.js"]
+          "js": ["scripts/content.js"],
+          "css" : ["styles/content.css"]
         }
       ]
 }
