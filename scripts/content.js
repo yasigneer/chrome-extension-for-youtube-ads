@@ -31,7 +31,7 @@ function playVideoToTriggerEvent(video){
 
 function observeCallbak(mutations) {
     for (let mutation of mutations) {
-        if (mutation.target?.className?.toString().includes("ytp-ad-module")) {
+        if (mutation.target?.className?.toString().includes("html5-video-container")) {
             var video = document.querySelector('video');
             console.log(video);
             addEventListenersToVideo(video);
