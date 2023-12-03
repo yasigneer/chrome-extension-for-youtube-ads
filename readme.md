@@ -2,21 +2,26 @@
 
 ## Overview
 
-SpeAdy Gonzales is a basic browser extension designed to enhance your YouTube viewing experience by reducing the time it takes to skip ads. With this extension, you can skip YouTube ads almost in 0.5 seconds.
+SpeAdy Gonzales is a basic browser extension designed to enhance your YouTube viewing experience by reducing the time it takes to skip ads. With this extension, you can skip YouTube ads almost in 0.5 seconds at the same time keeping on supporting to your favorite content creators.
 
-## Installation
 
-### Download as Zip
+## Versions
+
+###  Release [V1.1.0](https://chromewebstore.google.com/u/3/detail/speady-gonzales/jmgpekojocogiikbaogdahcdmaokonnj)
+
+
+
+### Manual Installation (Recommended)
+
+#### Download as Zip
 
 1. Click [here](https://github.com/yasigneer/chrome-extension-for-youtube-ads/archive/refs/heads/master.zip) to download the extension as a zip file.
 2. Extract the contents of the zip file to a location of your choice.
 
-### Or Clone Repository
+#### Or Clone Repository
 1. Clone the Repository:
    ```bash
    git clone https://github.com/yasigneer/chrome-extension-for-youtube-ads.git
-
-### Manual Installation
 
 Follow these steps to manually install the extension:
 
