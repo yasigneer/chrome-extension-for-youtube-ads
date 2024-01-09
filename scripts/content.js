@@ -2,10 +2,9 @@ console.log("activated ad skipper");
 
 observer = new MutationObserver(observeCallbak);
 
-getVideoEementAndAddEventListeners();
+getVideoElementAndAddEventListeners();
 
-
-function getVideoEementAndAddEventListeners(){
+function getVideoElementAndAddEventListeners(){
     var video = document.querySelector('video');
     if(video == null) {
         console.log("no video on current page. observing...")
@@ -83,4 +82,3 @@ function skipAd(){
 function isElementExists(selector){
     return document.body.contains(document.querySelector(selector));
 }
-
